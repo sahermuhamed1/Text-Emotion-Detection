@@ -9,11 +9,11 @@
 
 The dataset contains three tables: one for training, one for testing, and one for processing. The data is in a text format.
 
-To access the Train dataset click [HERE](https://github.com/sahermuhamed1/Emotion-Detection-Project-NLP-ML-Streamlit-/blob/main/train.txt)
+To access the Train dataset click [HERE](https://github.com/sahermuhamed1/Text-Emotion-Detection/blob/main/train.txt)
 
-To access the Test dataset click [HERE](https://github.com/sahermuhamed1/Emotion-Detection-Project-NLP-ML-Streamlit-/blob/main/test.txt)
+To access the Test dataset click [HERE](https://github.com/sahermuhamed1/Text-Emotion-Detection/blob/main/test.txt)
 
-To access the Val dataset click [HERE](https://github.com/sahermuhamed1/Emotion-Detection-Project-NLP-ML-Streamlit-/blob/main/val.txt)
+To access the Val dataset click [HERE](https://github.com/sahermuhamed1/Text-Emotion-Detection/blob/main/val.txt)
 
 # ML Models🧠
 
@@ -44,7 +44,7 @@ The following text preprocessing techniques are implemented in this project:
 
 In this project, we utilize Streamlit as our deployment tool to transform our AI model into an interactive dashboard. This platform enables users to input text, triggering our AI model's emotion detection algorithm, providing an analysis of the emotional state of the author of the text.
 
-to access the application [Link](https://emotion-detection-project-by-saher.streamlit.app/)
+to access the application [Link](https://text-emotion-detection-sahermuhamed.streamlit.app/)
 
 # Usage🤔
 
@@ -72,15 +72,15 @@ predicted_emotion = model.predict([preprocessed_text])[0]
 print("Predicted Emotion:", predicted_emotion)
 ```
 
-to access the model pickle file click [HERE](to access the model file click [HERE](https://github.com/sahermuhamed1/Emotion-Detection-Project-NLP-ML-Streamlit-/blob/main/model.pkl)
+to access the model pickle file click [HERE](https://github.com/sahermuhamed1/Text-Emotion-Detection/blob/main/model.pkl)
 
-to access the model python file click [HERE](https://github.com/sahermuhamed1/Emotion-Detection-Project-NLP-ML-Streamlit-/blob/main/model.py)
+to access the model python file click [HERE](https://github.com/sahermuhamed1/Text-Emotion-Detection/blob/main/model.py)
 
 ### to makesure that your model runs successfuly you should install both preprocessing and App files:
 
-to download preprocessing file click [HERE](https://github.com/sahermuhamed1/Emotion-Detection-Project-NLP-ML-Streamlit-/blob/main/preprocessing.py)
+to download preprocessing file click [HERE](https://github.com/sahermuhamed1/Text-Emotion-Detection/blob/main/preprocessing.py)
 
-to download App file click [HERE](https://github.com/sahermuhamed1/Emotion-Detection-Project-NLP-ML-Streamlit-/blob/main/App.py)
+to download App file click [HERE](https://github.com/sahermuhamed1/Text-Emotion-Detection/blob/main/App.py)
 
 
 
